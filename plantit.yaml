@@ -6,5 +6,3 @@ from: Directory
 to: Directory
 image: docker://bendjamin101001/plantit_dpp:v1
 commands: python3 semantic_section_example.py -p "$INPUT"
-logo: dpp_logo.jpg
-params:
